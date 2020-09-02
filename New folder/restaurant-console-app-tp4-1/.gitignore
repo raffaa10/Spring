@@ -1,6 +1,8 @@
 # Compiled class file
 *.class
 
+*.classpath
+
 # Log file
 *.log
 
@@ -26,4 +28,6 @@ hs_err_pid*
 *.iml
 
 target
+
+$*
 
